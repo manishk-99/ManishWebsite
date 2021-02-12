@@ -54,7 +54,7 @@ hr {
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .link-primary:hover {
@@ -73,7 +73,7 @@ hr {
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem;
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .link-secondary:hover {
@@ -102,7 +102,7 @@ hr {
     color: white;
     padding: 0.5rem;
     border-bottom-left-radius: 1rem;
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .navigation:hover {
@@ -168,7 +168,7 @@ hr {
     margin: auto;
     border-radius: 0.5rem;
     box-shadow: 0 0 20px rgb(83, 81, 81);
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .section:hover {
@@ -188,7 +188,7 @@ hr {
     padding-right: 1rem;
     border-radius: 0.5rem;
     box-shadow: 0 0 20px rgb(83, 81, 81);
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .ow:hover {
@@ -204,7 +204,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
-    transition: 1s;
+    transition: 0.5s;
   background-size: 200% auto;
 }
 .footer:hover {
