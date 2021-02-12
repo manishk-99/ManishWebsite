@@ -58,7 +58,7 @@ hr {
   background-size: 200% auto;
 }
 .link-primary:hover {
-    background: linear-gradient(to left, #48be79 0%, #00ff62 100%, #2fd859 40%);
+    background: linear-gradient(to left, #649276 0%, #00ff62 51%, #2fd859 100%);
     background-position: right center;
 }
 
@@ -106,7 +106,7 @@ hr {
   background-size: 200% auto;
 }
 .navigation:hover {
-    background: linear-gradient(to right, #48be79 0%, #00ff62 100%, #2fd859 40%);
+    background: linear-gradient(to right, #649276 0%, #00ff62 51%, #2fd859 100%);
     background-position: right center;
 }
 
@@ -208,7 +208,7 @@ hr {
   background-size: 200% auto;
 }
 .footer:hover {
-    background: linear-gradient(to right, #48be79 0%, #00ff62 100%, #2fd859 40%);
+    background: linear-gradient(to right, #649276 0%, #00ff62 51%, #2fd859 100%);
     background-position: right center;
 }
 
